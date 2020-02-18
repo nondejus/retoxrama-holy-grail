@@ -1,26 +1,39 @@
 # retoxrama-holy-grail
+======================
 
-8 5 E 5    藥 drugs, pharmaceuticals, medicine
-7 2 6 9    物 thing, substance, creature
-6 6 1 F    星 a star, planet; any point of light
-7 4 0 3    球 ball, sphere, globe; round
+0
 
-7 9 5 E    神 spirit, god, supernatural being
-7 D 9 3    經 classic works; pass through
-7 C B F    系 system; line, link, connection
-7 D 7 1    統 govern, command, control; unite
+--------   x(4)    -------
 
-5 7 C E    城 castle; city, town; municipality
-5 E 0 2    市 market, fair; city, town; trade
-6 C 1 1    民 people, subjects, citizens
-5 1 7 5    兵 soldier, troops
+0 0 0 0            9 6 F 6    零 zero
+
+-------    hex     -------
+
+0 0 0 0            8 5 E 5    藥 drugs, pharmaceuticals, medicine
+0 0 0 0            7 2 6 9    物 thing, substance, creature
+0 0 0 0            6 6 1 F    星 a star, planet; any point of light
+0 0 0 0            7 4 0 3    球 ball, sphere, globe; round
+
+-------  unicode   -------
+
+0 0 0 0            7 9 5 E    神 spirit, god, supernatural being
+0 0 0 0            7 D 9 3    經 classic works; pass through
+0 0 0 0            7 C B F    系 system; line, link, connection
+0 0 0 0            7 D 7 1    統 govern, command, control; unite
+
+0 0 0 0            5 7 C E    城 castle; city, town; municipality
+0 0 0 0            5 E 0 2    市 market, fair; city, town; trade
+0 0 0 0            6 C 1 1    民 people, subjects, citizens
+0 0 0 0            5 1 7 5    兵 soldier, troops
 .	  
-5 3 1 6    化 change, convert, reform; -ize
-8 C D 3    學 learning, knowledge; school
-6 2 3 0    戰 war, fighting, battle
-7 2 2 D    爭 to dispute, fight, contend, strive
+0 0 0 0            5 3 1 6    化 change, convert, reform; -ize
+0 0 0 0            8 C D 3    學 learning, knowledge; school
+0 0 0 0            6 2 3 0    戰 war, fighting, battle
+0 0 0 0            7 2 2 D    爭 to dispute, fight, contend, strive
  
-6 E 3 8    游 to swim; float, drift; wander, roam
-6 4 C A    擊 strike, hit, beat; attack, fight
-5 C 0 8    專 monopolize, take sole possession
-6 5 3 F    政 government, political affairs
+0 0 0 0            6 E 3 8    游 to swim; float, drift; wander, roam
+0 0 0 0            6 4 C A    擊 strike, hit, beat; attack, fight
+0 0 0 0            5 C 0 8    專 monopolize, take sole possession
+0 0 0 0            6 5 3 F    政 government, political affairs
+
+-------            -------
